@@ -42,10 +42,15 @@ section#botoes {
     text-align: right;
 }
 
+section img:hover {
+    border: 1px solid rgba(255, 255, 255, 0.608);
+}
+
 #botoes img {
     width: 50px;
     margin: 10px;
     border-radius: 50%;
     box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.359);
+    box-sizing: border-box;
 
 }

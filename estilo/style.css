@@ -43,7 +43,7 @@ section#botoes {
 }
 
 section img:hover {
-    border: 1px solid rgba(255, 255, 255, 0.608);
+    border: 2px solid rgba(255, 255, 255, 0.608);
 }
 
 #botoes img {
